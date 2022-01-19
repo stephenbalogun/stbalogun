@@ -1,5 +1,0 @@
----
-title: "Stephen Balogun"
-site: distill::distill_website
-listing: talks
----

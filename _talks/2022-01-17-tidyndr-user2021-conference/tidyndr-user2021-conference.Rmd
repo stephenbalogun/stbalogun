@@ -1,0 +1,36 @@
+---
+title: "tidyndr: useR!2021 conference"
+description: |
+  UseR!2021 conference presentation.
+author:
+  - name: Stephen Balogun
+date: 2021-07-17
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - R
+  - conference
+  - R package
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(fontawesome)
+```
+
+
+
+![user!2021](poster.png)
+
+My first R conference presentation on a package I developed for analysis of the [Nigeria National (HIV) Data Repository](https://ndr.shieldnigeriaproject.com).
+
+
+*   `r fa("video")` [Elevator pitch](https://www.youtube.com/watch?v=HZY94FvB-g0&list=PL4IzsxWztPdnviiir8c5GaarXd9vZ2TIP&index=5&t=20s)
+
+*   `r fa("file-powerpoint")` [Conference slides](https://stephenbalogun.github.io/tidyndr_user-conf/tidyndr.html)
+  
+
+  

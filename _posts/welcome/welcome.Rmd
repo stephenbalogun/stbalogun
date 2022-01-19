@@ -1,0 +1,28 @@
+---
+title: "Welcome to Stephen Balogun"
+description: |
+  Welcome to my new blog, Stephen Balogun. I hope you enjoy 
+  reading what we have to say! For more information about me, visit my [personal website](http://taiye.nelify.app/) and my [pet project site](https://r4hds.nelify.app/).
+author:
+  - name: Stephen Balogun
+    url: https://taiye.netlify.app/
+    affiliation: R4HDS
+    affiliation_url: https://r4hds.netlify.app/
+date: "`r Sys.Date()`"
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - portfolios
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+

@@ -1,0 +1,120 @@
+[
+  {
+    "path": "talks/2022-01-17-right-start-programming-with-r/",
+    "title": "Right start programming with R",
+    "description": "A one-day R-Ladies Abuja workshop.",
+    "author": [
+      {
+        "name": "Unknown",
+        "url": {}
+      }
+    ],
+    "date": "2022-01-17",
+    "categories": [],
+    "contents": "\r\nAbuja R user groupCome Saturday, 29th January, 2022. I will be co-facilitating a workshop with Bilikisu Wunmi Aderinto on Right Start Programming with R Language. Make it a date with us, register here!\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-01-19T08:58:06+01:00",
+    "input_file": {}
+  },
+  {
+    "path": "talks/2022-01-17-introduction-to-r/",
+    "title": "Introduction to R",
+    "description": "A three-day free virtual workshop for beginners in R.",
+    "author": [
+      {
+        "name": "Stephen Balogun",
+        "url": {}
+      }
+    ],
+    "date": "2021-11-17",
+    "categories": [
+      "R",
+      "training"
+    ],
+    "contents": "\r\nSometimes in August, I had a conversation with the founder of the Pacesetter Leadership Club on organizing a free 10-hour virtual introductory workshop for beginners in R, especially those in the healthcare industry. The workshop held online between 11th and 13th October 2021. During the workshop, we discussed:\r\nIntro to R\r\nImporting data\r\nData cleaning\r\nData transformation\r\nData visualization\r\nData communication\r\nYou can find the session slides and the workshop videos in the links below:\r\nSlides:\r\nIntroduction\r\nGetting started\r\nPutting it together\r\nPlotting charts\r\n\r\nRecorded sessions:\r\nDay 1\r\nPart one\r\nPart two\r\n\r\nDay 2\r\nPart one\r\nPart two\r\n\r\n\r\nPractice dataset\r\nRepository\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-01-17T22:35:06+01:00",
+    "input_file": {}
+  },
+  {
+    "path": "talks/2022-01-17-introduction-to-package-development/",
+    "title": "Introduction to package development",
+    "description": "My workshop presentation during the satuRday Nairobi virtual conference.",
+    "author": [
+      {
+        "name": "Stephen Balogun",
+        "url": {}
+      }
+    ],
+    "date": "2021-09-17",
+    "categories": [
+      "R",
+      "training"
+    ],
+    "contents": "\r\nSatuRday Nairobi ConferenceOn the 4th of September 2021, I facilitated a workshop session at the satuRday Nairobi virtual conference. During the session, we went through the step-by-step process of R package development and deployment. The workshop materials can be found in the link below:\r\nwebpage\r\nslides\r\nsource code\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-01-17T22:34:50+01:00",
+    "input_file": {}
+  },
+  {
+    "path": "talks/2022-01-17-tidyndr-user2021-conference/",
+    "title": "tidyndr: useR!2021 conference",
+    "description": "UseR!2021 conference presentation.",
+    "author": [
+      {
+        "name": "Stephen Balogun",
+        "url": {}
+      }
+    ],
+    "date": "2021-07-17",
+    "categories": [
+      "R",
+      "conference",
+      "R package"
+    ],
+    "contents": "\r\nuser!2021My first R conference presentation on a package I developed for analysis of the Nigeria National (HIV) Data Repository.\r\nElevator pitch\r\nConference slides\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-01-17T23:53:04+01:00",
+    "input_file": {}
+  },
+  {
+    "path": "talks/2022-01-17-using-r-for-healthcare-improvement/",
+    "title": "Using R for healthcare improvement",
+    "description": "R-Ladies Abuja virtual meetup session. I discussed some of the ways that I use R to improve public health programs.",
+    "author": [
+      {
+        "name": "Stephen Balogun",
+        "url": {}
+      }
+    ],
+    "date": "2021-05-12",
+    "categories": [
+      "R",
+      "training"
+    ],
+    "contents": "\r\nPoster R-Ladies Abuja meetupI was invited by the organizers of R-Ladies Abuja to share my thoughts how I utilize R software within the healthcare industry. I discussed the power of R in designing interactive dashboards and the usefulness, especially during the peak of the pandemic. I also talked about how I use R scripts to automate analysis and how over time, I have organized the scripts into an R package - {tidyndr}.\r\nSlides\r\nRecording\r\nRepository\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-01-17T23:00:53+01:00",
+    "input_file": {}
+  },
+  {
+    "path": "talks/2022-01-17-introduction-to-biostatistics/",
+    "title": "Introduction to biostatistics",
+    "description": "Slide presentation designed using slidify embeded with {learnr} tutorials for Introduction to Biostatistics.",
+    "author": [
+      {
+        "name": "Stephen Balogun",
+        "url": {}
+      }
+    ],
+    "date": "2021-01-17",
+    "categories": [
+      "R",
+      "training"
+    ],
+    "contents": "\r\nOne of my early free training sessions in data analytics. The audience at the time were healthcare workers (mostly resident physicians) but the slides were simplified enough to capture any young learner with basic knowledge of biological sciences.\r\nThe slides were designed in R with interactive practice questions. I hope others can find them useful too.\r\nslides\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-01-17T22:34:58+01:00",
+    "input_file": {}
+  }
+]

@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
-    <loc>https://stephenbalogun.github.io/stephenbalogun/about.html</loc>
+    <loc>https://stephenbalogun.github.io/stbalogun/about.html</loc>
     <lastmod>2022-01-19T11:10:59+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stephenbalogun.github.io/stephenbalogun/</loc>
+    <loc>https://stephenbalogun.github.io/stbalogun/</loc>
     <lastmod>2022-01-19T09:07:26+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stephenbalogun.github.io/stephenbalogun/talks.html</loc>
+    <loc>https://stephenbalogun.github.io/stbalogun/talks.html</loc>
     <lastmod>2022-01-17T05:38:55+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stephenbalogun.github.io/stephenbalogun/posts/welcome/</loc>
-    <lastmod>2022-01-19T09:04:13+01:00</lastmod>
+    <loc>https://stephenbalogun.github.io/stbalogun/posts/welcome/</loc>
+    <lastmod>2022-01-19T16:08:45+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stephenbalogun.github.io/stephenbalogun/posts/2022-01-15-tidyndr-package-version-020-is-out/</loc>
+    <loc>https://stephenbalogun.github.io/stbalogun/posts/2022-01-15-tidyndr-package-version-020-is-out/</loc>
     <lastmod>2022-01-18T17:55:42+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stephenbalogun.github.io/stephenbalogun/posts/2022-01-11-explore-covid-19-pandemic/</loc>
+    <loc>https://stephenbalogun.github.io/stbalogun/posts/2022-01-11-explore-covid-19-pandemic/</loc>
     <lastmod>2022-01-17T05:22:18+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stephenbalogun.github.io/stephenbalogun/posts/2021-02-17-rstudio-global-diversity-scholarship/</loc>
+    <loc>https://stephenbalogun.github.io/stbalogun/posts/2021-02-17-rstudio-global-diversity-scholarship/</loc>
     <lastmod>2022-01-18T18:32:24+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stephenbalogun.github.io/stephenbalogun/posts/2020-03-06-becoming-isqua-ambassador/</loc>
+    <loc>https://stephenbalogun.github.io/stbalogun/posts/2020-03-06-becoming-isqua-ambassador/</loc>
     <lastmod>2022-01-11T13:53:18+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stephenbalogun.github.io/stephenbalogun/posts/2020-02-29-journey-to-quality-improvement/</loc>
+    <loc>https://stephenbalogun.github.io/stbalogun/posts/2020-02-29-journey-to-quality-improvement/</loc>
     <lastmod>2022-01-11T13:58:33+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stephenbalogun.github.io/stephenbalogun/posts/2020-02-29-website-design-experience/</loc>
+    <loc>https://stephenbalogun.github.io/stbalogun/posts/2020-02-29-website-design-experience/</loc>
     <lastmod>2022-01-11T11:44:50+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stephenbalogun.github.io/stephenbalogun/talks/2022-01-17-right-start-programming-with-r/</loc>
+    <loc>https://stephenbalogun.github.io/stbalogun/talks/2022-01-17-right-start-programming-with-r/</loc>
     <lastmod>2022-01-19T08:58:06+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stephenbalogun.github.io/stephenbalogun/talks/2022-01-17-introduction-to-r/</loc>
+    <loc>https://stephenbalogun.github.io/stbalogun/talks/2022-01-17-introduction-to-r/</loc>
     <lastmod>2022-01-17T22:35:06+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stephenbalogun.github.io/stephenbalogun/talks/2022-01-17-introduction-to-package-development/</loc>
+    <loc>https://stephenbalogun.github.io/stbalogun/talks/2022-01-17-introduction-to-package-development/</loc>
     <lastmod>2022-01-17T22:34:50+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stephenbalogun.github.io/stephenbalogun/talks/2022-01-17-tidyndr-user2021-conference/</loc>
+    <loc>https://stephenbalogun.github.io/stbalogun/talks/2022-01-17-tidyndr-user2021-conference/</loc>
     <lastmod>2022-01-17T23:53:04+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stephenbalogun.github.io/stephenbalogun/talks/2022-01-17-using-r-for-healthcare-improvement/</loc>
+    <loc>https://stephenbalogun.github.io/stbalogun/talks/2022-01-17-using-r-for-healthcare-improvement/</loc>
     <lastmod>2022-01-17T23:00:53+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stephenbalogun.github.io/stephenbalogun/talks/2022-01-17-introduction-to-biostatistics/</loc>
+    <loc>https://stephenbalogun.github.io/stbalogun/talks/2022-01-17-introduction-to-biostatistics/</loc>
     <lastmod>2022-01-17T22:34:58+01:00</lastmod>
   </url>
 </urlset>

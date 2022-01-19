@@ -1,8 +1,7 @@
 ---
 title: "Welcome to Stephen Balogun"
 description: |
-  Welcome to my new blog, Stephen Balogun. I hope you enjoy 
-  reading what we have to say! For more information about me, visit my [personal website](http://taiye.nelify.app/) and my [pet project site](https://r4hds.nelify.app/).
+  Welcome to my new blog, Stephen Balogun. 
 author:
   - name: Stephen Balogun
     url: https://taiye.netlify.app/
@@ -16,13 +15,4 @@ categories:
   - portfolios
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating blogs with Distill at:
-# https://rstudio.github.io/distill/blog.html
-
-```
-
-
-
+I hope you enjoy reading my rants `r emoji::emoji("smile")`! For more information about me, visit my other websites. [personal website](http://taiye.nelify.app/) and my [pet project site](https://r4hds.netlify.app/).

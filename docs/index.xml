@@ -2,84 +2,83 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>Stephen Balogun</title>
-    <link>https://stephenbalogun.github.io/stephenbalogun</link>
-    <atom:link href="https://stephenbalogun.github.io/stephenbalogun/index.xml" rel="self" type="application/rss+xml"/>
+    <link>https://stephenbalogun.github.io/stbalogun</link>
+    <atom:link href="https://stephenbalogun.github.io/stbalogun/index.xml" rel="self" type="application/rss+xml"/>
     <description>Welcome to my website
 </description>
     <image>
       <title>Stephen Balogun</title>
-      <url>https://stephenbalogun.github.io/stephenbalogun/images/logo.svg</url>
-      <link>https://stephenbalogun.github.io/stephenbalogun</link>
+      <url>https://stephenbalogun.github.io/stbalogun/images/logo.svg</url>
+      <link>https://stephenbalogun.github.io/stbalogun</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Welcome to Stephen Balogun</title>
       <dc:creator>Stephen Balogun</dc:creator>
-      <link>https://stephenbalogun.github.io/stephenbalogun/posts/welcome</link>
-      <description>Welcome to my new blog, Stephen Balogun. I hope you enjoy 
-reading what we have to say! For more information about me, visit my [personal website](http://taiye.nelify.app/) and my [pet project site](https://r4hds.nelify.app/).</description>
+      <link>https://stephenbalogun.github.io/stbalogun/posts/welcome</link>
+      <description>Welcome to my new blog, Stephen Balogun.</description>
       <category>portfolios</category>
-      <guid>https://stephenbalogun.github.io/stephenbalogun/posts/welcome</guid>
-      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://stephenbalogun.github.io/stbalogun/posts/welcome</guid>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>tidyndr package version 0.2.0 is out!!!</title>
       <dc:creator>Stephen Balogun</dc:creator>
-      <link>https://stephenbalogun.github.io/stephenbalogun/posts/2022-01-15-tidyndr-package-version-020-is-out</link>
+      <link>https://stephenbalogun.github.io/stbalogun/posts/2022-01-15-tidyndr-package-version-020-is-out</link>
       <description>A short description of the post.</description>
       <category>R</category>
       <category>healthcare</category>
       <category>R package</category>
-      <guid>https://stephenbalogun.github.io/stephenbalogun/posts/2022-01-15-tidyndr-package-version-020-is-out</guid>
+      <guid>https://stephenbalogun.github.io/stbalogun/posts/2022-01-15-tidyndr-package-version-020-is-out</guid>
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Explore COVID-19 pandemic with R</title>
       <dc:creator>Stephen Balogun</dc:creator>
-      <link>https://stephenbalogun.github.io/stephenbalogun/posts/2022-01-11-explore-covid-19-pandemic</link>
+      <link>https://stephenbalogun.github.io/stbalogun/posts/2022-01-11-explore-covid-19-pandemic</link>
       <description>A sneak peak into the COVID-19 data from Africa.</description>
       <category>health</category>
-      <guid>https://stephenbalogun.github.io/stephenbalogun/posts/2022-01-11-explore-covid-19-pandemic</guid>
+      <guid>https://stephenbalogun.github.io/stbalogun/posts/2022-01-11-explore-covid-19-pandemic</guid>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>RStudio global diversity scholarship</title>
       <dc:creator>Stephen Balogun</dc:creator>
-      <link>https://stephenbalogun.github.io/stephenbalogun/posts/2021-02-17-rstudio-global-diversity-scholarship</link>
+      <link>https://stephenbalogun.github.io/stbalogun/posts/2021-02-17-rstudio-global-diversity-scholarship</link>
       <description>I received the RStudio global diversity scholarship to participate in two different workshops during the rstudio::global(2021) conference.</description>
-      <guid>https://stephenbalogun.github.io/stephenbalogun/posts/2021-02-17-rstudio-global-diversity-scholarship</guid>
+      <guid>https://stephenbalogun.github.io/stbalogun/posts/2021-02-17-rstudio-global-diversity-scholarship</guid>
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Becoming ISQua ambassador</title>
       <dc:creator>Stephen Balogun</dc:creator>
-      <link>https://stephenbalogun.github.io/stephenbalogun/posts/2020-03-06-becoming-isqua-ambassador</link>
+      <link>https://stephenbalogun.github.io/stbalogun/posts/2020-03-06-becoming-isqua-ambassador</link>
       <description>On 5th March 2020, I was announced along 3 other people as Ambassadors of ISQua.</description>
       <category>health</category>
       <category>quality and safety improvement</category>
       <category>ISQua</category>
-      <guid>https://stephenbalogun.github.io/stephenbalogun/posts/2020-03-06-becoming-isqua-ambassador</guid>
+      <guid>https://stephenbalogun.github.io/stbalogun/posts/2020-03-06-becoming-isqua-ambassador</guid>
       <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>My healthcare quality and safety improvement journey</title>
       <dc:creator>Stephen Balogun</dc:creator>
-      <link>https://stephenbalogun.github.io/stephenbalogun/posts/2020-02-29-journey-to-quality-improvement</link>
+      <link>https://stephenbalogun.github.io/stbalogun/posts/2020-02-29-journey-to-quality-improvement</link>
       <description>I became committed in healthcare quality improvement and patient safety following my encounter with the ISQua Fellowship programme. This answered many of the burning questions I have hitherto had and fueled my passion and desire.</description>
       <category>health</category>
       <category>quality and safety improvement</category>
       <category>learning journey</category>
-      <guid>https://stephenbalogun.github.io/stephenbalogun/posts/2020-02-29-journey-to-quality-improvement</guid>
+      <guid>https://stephenbalogun.github.io/stbalogun/posts/2020-02-29-journey-to-quality-improvement</guid>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>My websites designing experience</title>
       <dc:creator>Stephen Balogun</dc:creator>
-      <link>https://stephenbalogun.github.io/stephenbalogun/posts/2020-02-29-website-design-experience</link>
+      <link>https://stephenbalogun.github.io/stbalogun/posts/2020-02-29-website-design-experience</link>
       <description>Over the years, I have designed a couple of professional websites using HTML &amp; CSS and R packages. Here, I share a bit about my experiences using the different platforms.</description>
       <category>learning journey</category>
-      <guid>https://stephenbalogun.github.io/stephenbalogun/posts/2020-02-29-website-design-experience</guid>
+      <guid>https://stephenbalogun.github.io/stbalogun/posts/2020-02-29-website-design-experience</guid>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
     </item>
   </channel>

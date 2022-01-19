@@ -2,74 +2,74 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>Stephen Balogun</title>
-    <link>https://stephenbalogun.github.io/stephenbalogun</link>
-    <atom:link href="https://stephenbalogun.github.io/stephenbalogun/talks.xml" rel="self" type="application/rss+xml"/>
+    <link>https://stephenbalogun.github.io/stbalogun</link>
+    <atom:link href="https://stephenbalogun.github.io/stbalogun/talks.xml" rel="self" type="application/rss+xml"/>
     <description>Welcome to my website
 </description>
     <image>
       <title>Stephen Balogun</title>
-      <url>https://stephenbalogun.github.io/stephenbalogun/images/logo.svg</url>
-      <link>https://stephenbalogun.github.io/stephenbalogun</link>
+      <url>https://stephenbalogun.github.io/stbalogun/images/logo.svg</url>
+      <link>https://stephenbalogun.github.io/stbalogun</link>
     </image>
     <generator>Distill</generator>
     <lastBuildDate>Mon, 17 Jan 2022 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Right start programming with R</title>
       <dc:creator>Unknown</dc:creator>
-      <link>https://stephenbalogun.github.io/stephenbalogun/talks/2022-01-17-right-start-programming-with-r</link>
+      <link>https://stephenbalogun.github.io/stbalogun/talks/2022-01-17-right-start-programming-with-r</link>
       <description>A one-day R-Ladies Abuja workshop.</description>
-      <guid>https://stephenbalogun.github.io/stephenbalogun/talks/2022-01-17-right-start-programming-with-r</guid>
+      <guid>https://stephenbalogun.github.io/stbalogun/talks/2022-01-17-right-start-programming-with-r</guid>
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introduction to R</title>
       <dc:creator>Stephen Balogun</dc:creator>
-      <link>https://stephenbalogun.github.io/stephenbalogun/talks/2022-01-17-introduction-to-r</link>
+      <link>https://stephenbalogun.github.io/stbalogun/talks/2022-01-17-introduction-to-r</link>
       <description>A three-day free virtual workshop for beginners in R.</description>
       <category>R</category>
       <category>training</category>
-      <guid>https://stephenbalogun.github.io/stephenbalogun/talks/2022-01-17-introduction-to-r</guid>
+      <guid>https://stephenbalogun.github.io/stbalogun/talks/2022-01-17-introduction-to-r</guid>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introduction to package development</title>
       <dc:creator>Stephen Balogun</dc:creator>
-      <link>https://stephenbalogun.github.io/stephenbalogun/talks/2022-01-17-introduction-to-package-development</link>
+      <link>https://stephenbalogun.github.io/stbalogun/talks/2022-01-17-introduction-to-package-development</link>
       <description>My workshop presentation during the satuRday Nairobi virtual conference.</description>
       <category>R</category>
       <category>training</category>
-      <guid>https://stephenbalogun.github.io/stephenbalogun/talks/2022-01-17-introduction-to-package-development</guid>
+      <guid>https://stephenbalogun.github.io/stbalogun/talks/2022-01-17-introduction-to-package-development</guid>
       <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>tidyndr: useR!2021 conference</title>
       <dc:creator>Stephen Balogun</dc:creator>
-      <link>https://stephenbalogun.github.io/stephenbalogun/talks/2022-01-17-tidyndr-user2021-conference</link>
+      <link>https://stephenbalogun.github.io/stbalogun/talks/2022-01-17-tidyndr-user2021-conference</link>
       <description>UseR!2021 conference presentation.</description>
       <category>R</category>
       <category>conference</category>
       <category>R package</category>
-      <guid>https://stephenbalogun.github.io/stephenbalogun/talks/2022-01-17-tidyndr-user2021-conference</guid>
+      <guid>https://stephenbalogun.github.io/stbalogun/talks/2022-01-17-tidyndr-user2021-conference</guid>
       <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Using R for healthcare improvement</title>
       <dc:creator>Stephen Balogun</dc:creator>
-      <link>https://stephenbalogun.github.io/stephenbalogun/talks/2022-01-17-using-r-for-healthcare-improvement</link>
+      <link>https://stephenbalogun.github.io/stbalogun/talks/2022-01-17-using-r-for-healthcare-improvement</link>
       <description>R-Ladies Abuja virtual meetup session. I discussed some of the ways that I use R to improve public health programs.</description>
       <category>R</category>
       <category>training</category>
-      <guid>https://stephenbalogun.github.io/stephenbalogun/talks/2022-01-17-using-r-for-healthcare-improvement</guid>
+      <guid>https://stephenbalogun.github.io/stbalogun/talks/2022-01-17-using-r-for-healthcare-improvement</guid>
       <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introduction to biostatistics</title>
       <dc:creator>Stephen Balogun</dc:creator>
-      <link>https://stephenbalogun.github.io/stephenbalogun/talks/2022-01-17-introduction-to-biostatistics</link>
+      <link>https://stephenbalogun.github.io/stbalogun/talks/2022-01-17-introduction-to-biostatistics</link>
       <description>Slide presentation designed using slidify embeded with {learnr} tutorials for Introduction to Biostatistics.</description>
       <category>R</category>
       <category>training</category>
-      <guid>https://stephenbalogun.github.io/stephenbalogun/talks/2022-01-17-introduction-to-biostatistics</guid>
+      <guid>https://stephenbalogun.github.io/stbalogun/talks/2022-01-17-introduction-to-biostatistics</guid>
       <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
     </item>
   </channel>

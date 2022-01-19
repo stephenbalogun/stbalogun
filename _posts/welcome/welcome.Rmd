@@ -15,4 +15,4 @@ categories:
   - portfolios
 ---
 
-I hope you enjoy reading my rants `r emoji::emoji("smile")`! For more information about me, visit my other websites. [personal website](http://taiye.nelify.app/) and my [pet project site](https://r4hds.netlify.app/).
+I hope you enjoy reading my rants `r emoji::emoji("smile")`! For more information about me, visit my other websites. [personal website](http://taiye.netlify.app/) and my [pet project site](https://r4hds.netlify.app/).

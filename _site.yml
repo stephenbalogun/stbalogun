@@ -5,7 +5,7 @@ description: |
 output_dir: "docs"
 favicon: images/logo.svg
 repository_url: https://github.com/stephenbalogun/stephenbalogun
-base_url: https://stephenbalogun.github.io/stephenbalogun
+base_url: https://stephenbalogun.github.io/stbalogun
 creative_commons: CC BY
 twitter:
   site: "@eppydoc"

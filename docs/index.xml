@@ -12,7 +12,7 @@
       <link>https://stephenbalogun.github.io/stbalogun</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Apr 2022 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Explore COVID-19 pandemic with R</title>
       <dc:creator>Stephen Balogun</dc:creator>
@@ -20,7 +20,7 @@
       <description>A sneak peak into the COVID-19 data from Africa.</description>
       <category>health</category>
       <guid>https://stephenbalogun.github.io/stbalogun/posts/2022-01-11-explore-covid-19-pandemic</guid>
-      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to Stephen Balogun</title>
@@ -29,7 +29,7 @@
       <description>Welcome to my new blog.</description>
       <category>portfolios</category>
       <guid>https://stephenbalogun.github.io/stbalogun/posts/welcome</guid>
-      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>tidyndr package version 0.2.0 is out!!!</title>

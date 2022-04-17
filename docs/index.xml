@@ -12,7 +12,16 @@
       <link>https://stephenbalogun.github.io/stbalogun</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Explore COVID-19 pandemic with R</title>
+      <dc:creator>Stephen Balogun</dc:creator>
+      <link>https://stephenbalogun.github.io/stbalogun/posts/2022-01-11-explore-covid-19-pandemic</link>
+      <description>A sneak peak into the COVID-19 data from Africa.</description>
+      <category>health</category>
+      <guid>https://stephenbalogun.github.io/stbalogun/posts/2022-01-11-explore-covid-19-pandemic</guid>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Welcome to Stephen Balogun</title>
       <dc:creator>Stephen Balogun</dc:creator>
@@ -32,15 +41,6 @@
       <category>R package</category>
       <guid>https://stephenbalogun.github.io/stbalogun/posts/2022-01-15-tidyndr-package-version-020-is-out</guid>
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Explore COVID-19 pandemic with R</title>
-      <dc:creator>Stephen Balogun</dc:creator>
-      <link>https://stephenbalogun.github.io/stbalogun/posts/2022-01-11-explore-covid-19-pandemic</link>
-      <description>A sneak peak into the COVID-19 data from Africa.</description>
-      <category>health</category>
-      <guid>https://stephenbalogun.github.io/stbalogun/posts/2022-01-11-explore-covid-19-pandemic</guid>
-      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>RStudio global diversity scholarship</title>
